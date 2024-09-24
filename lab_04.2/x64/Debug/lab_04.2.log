@@ -1,0 +1,3 @@
+﻿  lab_04.2.cpp
+C:\Users\VITUK\source\repos\lab_04.2\lab_04.2\lab_04.2.cpp(26,10): warning C4804: '<': unsafe use of type 'bool' in operation
+  lab_04.2.vcxproj -> C:\Users\VITUK\source\repos\lab_04.2\x64\Debug\lab_04.2.exe
